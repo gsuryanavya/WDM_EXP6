@@ -16,6 +16,9 @@ sklearn to demonstrate Information Retrieval using the Vector Space Model.
 
 ### Program:
 ```
+pip install nltk
+```
+```
 import nltk
 nltk.download('punkt')
 nltk.download('stopwords')
